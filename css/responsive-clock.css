@@ -1,4 +1,12 @@
 
+  .flipTimebox{
+    margin: 0 20px 80px 20px;
+  }
+
+  .flipTimebox .flip-clock-wrapper ul {
+    width: 8%;
+  }
+
 
 @media screen and (max-width: 767px) {
   .flipTimebox .flip-clock-wrapper ul {
